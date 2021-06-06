@@ -5,7 +5,7 @@
 <div>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+  <img align="right" width="40" height="40" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
   
   ##
