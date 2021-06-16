@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=jolly"/>
 
-  <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+  <img align="right" width="120" height="120" src="https://tenor.com/view/kamado-tanjirou-smile-happy-demon-slayer-kimetsu-no-yaiba-gif-15688579">
 </div>
  
 <div> 
