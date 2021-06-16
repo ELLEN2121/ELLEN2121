@@ -2,7 +2,7 @@ Hi! My name is Ellen.
 
 <div>
   <a href="https://github.com/ellen2121">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="150" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=jolly"/>
 
   <img align="right" width="148" height="180" src="https://media1.tenor.com/images/1976ec0323798268a977c29ed5e20ede/tenor.gif?itemid=15688579">
