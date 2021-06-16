@@ -1,11 +1,12 @@
- <div>
+##Hii
+
+<div>
   <a href="https://github.com/ellen2121">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&layout=compact&langs_count=16&theme=jolly&show_icons=true/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=jolly"/>
+
   <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
