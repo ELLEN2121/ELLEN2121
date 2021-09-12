@@ -18,5 +18,6 @@
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=Csharp&theme=react)](https://github.com/ELLEN2121/Csharp)
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=JavaScript&theme=react)](https://github.com/ELLEN2121/JavaScript)
  
