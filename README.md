@@ -17,6 +17,6 @@
  
 </div>
  
-[![opa](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=Csharp)](https://github.com/ELLEN2121/Csharp)
+[![readme]estudo de c# (https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=Csharp)](https://github.com/ELLEN2121/Csharp)
 
  
