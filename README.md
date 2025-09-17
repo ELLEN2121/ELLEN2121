@@ -1,7 +1,7 @@
 <h1>Oi, meu nome é Ellen </h1>
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">
 <p>Pessoal que veio atrás do Github Stats e Cobrinha: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial</p>
 
 </div>
