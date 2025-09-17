@@ -2,8 +2,7 @@
 
 <div>
   <a href="https://github.com/ellen2121">
-
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=20&theme=react" />
+<p>Pessoal que veio atrás do Github Stats e Cobrinha: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial</p>
 
 </div>
  <br>
