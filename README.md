@@ -25,5 +25,3 @@
 </div>
 
 
-### 🐍 Snake
-![Snake animation](https://raw.githubusercontent.com/ELLEN2121/ELLEN2121/output/github-contribution-grid-snake.svg)
