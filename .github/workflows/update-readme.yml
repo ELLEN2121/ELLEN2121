@@ -1,9 +1,9 @@
-name: Update GitHub Stats
+name: Update Profile
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Atualiza a cada 12h
-  workflow_dispatch:         # Permite rodar manualmente também
+    - cron: "0 */12 * * *"   # roda a cada 12 horas
+  workflow_dispatch:          # permite rodar manualmente também
 
 jobs:
   build:
@@ -12,15 +12,27 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        env:
-          PAT_1: ${{ secrets.PAT_1 }}
+      # ===================== #
+      #  1) Generate Snake 🐍 #
+      # ===================== #
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ELLEN2121
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push changes
+      - name: Deploy Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ===================== #
+      #  2) Update Stats 📊   #
+      # ===================== #
+      - name: Generate Stats
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update stats" || echo "No changes to commit"
-          git push
+          echo "Stats são carregados via API do GitHub Readme Stats."
+          echo "Se precisar evitar rate limit, configure um PAT_1 como secret."
