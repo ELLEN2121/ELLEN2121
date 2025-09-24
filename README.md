@@ -1,35 +1,53 @@
 <h1 align="center">Oi, meu nome é Ellen 👋</h1>
 
 <p align="center">
-  Sou apaixonada por tecnologia e sempre explorando novas ferramentas e linguagens.<br>
-  Aqui você vai encontrar projetos, estudos e minha evolução constante no mundo da programação 🚀
+  Sou apaixonada por <b>Qualidade de Software (QA)</b> e <b>Desenvolvimento (Dev)</b>.<br>
+  Trabalho garantindo que aplicações sejam robustas, seguras e eficientes, enquanto também crio soluções e funcionalidades com código limpo e escalável.<br>
+  Adoro explorar novas ferramentas, automatizar processos e aprender continuamente para entregar softwares cada vez melhores 🚀
 </p>
 
----
 
-🚀 Tecnologias 
 
+
+<h2 align="center">🚀 Tecnologias</h2>
+
+### 💻 Linguagens de Programação
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.simpleicons.org/typescript">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c">
+  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
+
+### 🎨 Frontend
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Astro" height="40" width="40" src="https://cdn.simpleicons.org/astro">
   <img align="center" alt="Vue.js" height="40" width="40" src="https://cdn.simpleicons.org/vuedotjs">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.simpleicons.org/typescript">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c">
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.simpleicons.org/sql">
-  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.simpleicons.org/oracle">
+  <img align="center" alt="Astro" height="40" width="40" src="https://cdn.simpleicons.org/astro">
+</div>
+
+### 🗄️ Banco de Dados
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+</div>
+
+### ⚙️ Ferramentas
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jira" height="40" width="40" src="https://cdn.simpleicons.org/jira">
-  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.simpleicons.org/amazonaws">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.simpleicons.org/git">
   <img align="center" alt="Insomnia" height="40" width="40" src="https://cdn.simpleicons.org/insomnia">
 </div>
 
----
+### ☁️ Cloud
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
+
 
 🌍 Fale comigo
 
@@ -45,6 +63,6 @@
   </a>
 </div>
 
----
+<h2 align="center">⭐️ A mudança é constante e cooontínua!</h2>
 
-⭐️ A mudança é constante e cooontínua!
+
