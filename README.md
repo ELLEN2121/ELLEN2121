@@ -4,7 +4,7 @@
   Amo explorar novas ferramentas, automatizar processos e aprender sempre 💡🚀
 </p>
 
-<h3>💻 Linguagens</h3>
+<h3>Linguagens</h3>
 <div style="display: inline_block">
   <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="TypeScript" height="30" src="https://cdn.simpleicons.org/typescript"/>
@@ -15,7 +15,7 @@
   <img alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 </div>
 
-<h3>🎨 Frontend & Frameworks</h3>
+<h3>Frontend & Frameworks</h3>
 <div style="display: inline_block">
   <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -25,14 +25,16 @@
   <img alt="WordPress" height="30" src="https://cdn.simpleicons.org/wordpress"/>
 </div>
 
-<h3>🗄️ Bancos de Dados</h3>
+
+<h3>Bancos de Dados</h3>
 <div style="display: inline_block">
   <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img alt="Oracle" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
   <img alt="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 </div>
 
-<h3>⚙️ Ferramentas & QA</h3>
+
+<h3>Ferramentas & QA</h3>
 <div style="display: inline_block">
   <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img alt="Jira" height="30" src="https://cdn.simpleicons.org/jira"/>
@@ -43,13 +45,14 @@
   <img alt="Robot Framework" height="30" src="https://cdn.simpleicons.org/robotframework"/>
 </div>
 
-<h3>☁️ Cloud</h3>
+
+<h3>Cloud</h3>
 <div style="display: inline_block">
-  <img alt="AWS" height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAmazon_Web_Services_Logo.svg&psig=AOvVaw3CW6VGArzxX9iPCC0HBwmO&ust=1758831327614000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC8prSb8o8DFQAAAAAdAAAAABAE"/>
-  <img alt="Azure" height="30" src="https://techicons.dev/icons/azure.svg"/>
+  <img alt="AWS" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
+  <img alt="Azure" height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"/>
 </div>
 
-<h3>🌍 Fale comigo</h3>
+<h3>Fale comigo</h3>
 <div>
   <a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -61,5 +64,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-<h3>⭐️ A mudança é constante e cooontínua!</h3>
+<h5>⭐️ A mudança é constante e cooontínua!</h5>
