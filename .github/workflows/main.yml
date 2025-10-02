@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule: # roda automaticamente todo dia à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ELLEN2121   # 👈 seu user do GitHub
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
