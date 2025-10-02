@@ -64,4 +64,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-<h5>⭐️ A mudança é constante e cooontínua!</h5>
+
+
+![snake gif](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
+
